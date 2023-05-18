@@ -1,3 +1,4 @@
+package Refatoracao;
 import java.util.Scanner;
 
 public class Mensagem {

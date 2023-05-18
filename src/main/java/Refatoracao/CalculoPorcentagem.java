@@ -1,3 +1,5 @@
+package Refatoracao;
+
 public class CalculoPorcentagem {
   public void calculaPorcentagem(Pessoa pessoa) {
     if (pessoa.estaRetornandoViagem.equals("SIM")) {
