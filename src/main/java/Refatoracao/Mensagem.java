@@ -80,7 +80,7 @@ public class Mensagem {
 
     do {
       System.out
-          .println("\nTeve contato com pessoas com sintomas gripais nos últimos dias?" +
+          .println("\nEsta retornando de viagem?" +
               "Digite SIM ou NAO");
       pessoa.estaRetornandoViagem = scanner.next().toUpperCase();
       if (pessoa.estaRetornandoViagem.equals("SIM")
